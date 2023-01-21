@@ -1,7 +1,7 @@
 id=odm_audioeff_rm
 name=ViPER4Android fix for realme 6
-version=1.0-realmeUI-2-0
-versionCode=1
+version=V2-realmeUI2.0
+versionCode=200
 author=Hakimi0804
 description=This modules works by bind-mounting an empty file to /odm/etc/audio_effects.xml
 updateJson=https://raw.githubusercontent.com/Hakimi0804/RM6785-viper-dolby-fix/update/update.json
